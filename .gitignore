@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+env/
